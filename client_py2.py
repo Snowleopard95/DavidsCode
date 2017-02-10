@@ -1,7 +1,7 @@
-'David2'
+'David3'
 import socket, sys
   
-host = '10.248.27.23'  
+host = '10.2.222.80'
 # host = raw_input("Plz imput destination IP:")  
 # data = raw_input("Plz imput what you want to submit:")  
 port = 51423  

@@ -1,6 +1,6 @@
 import socket, traceback, sys  
   
-host = ''  
+host = '10.2.222.80'
 port = 51423  
   
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  
